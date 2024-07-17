@@ -75,7 +75,7 @@ header{
     display: flex;
 }
 .body .main_content {
-    width: 67%;
+    width: 69%;
     padding-right: 27px;
 }
 
@@ -183,7 +183,7 @@ header{
     flex-direction: column;
     justify-content: space-around;
     background-color: hsl(240, 100%, 5%);
-    width: 33%;
+    width: 31%;
 }
 .tab_list{
     height: 80%;
